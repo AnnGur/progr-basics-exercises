@@ -1,0 +1,3 @@
+Sample,SequencesCount,TotalBases,GCPercentage,CPercentage,GPercentage,MinLength,MaxLength
+sample_1,10000, 3991059,49.73,24.87,24.85,150,650
+sample_2,9999, 3988130,49.76,24.87,24.89,147,656
