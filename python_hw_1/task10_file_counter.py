@@ -10,4 +10,5 @@ def count_words_in_file(filename):
                 count += len(line.split())
             return count
     except FileNotFoundError:
+        print(f"Error: The file '{filename}' was not found. Returnin 0.")
         return 0

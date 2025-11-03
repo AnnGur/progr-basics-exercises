@@ -72,6 +72,6 @@ print(sum_even_numbers(5, 15))   # 50 (6+8+10+12+14)
 ## Task 10: Count total number of words in a file.
 print('\n-----Task 10: Count total number of words in a file.-----\n')
 # If file contains: "Hello world from Python"
-print(count_words_in_file("resources/sample.txt"))  # 4
-print(count_words_in_file("resources/empty.txt"))   # 0
-print(count_words_in_file("resources/missing.txt")) # 0
+print(count_words_in_file("python_hw_1/resources/sample.txt"))  # 4
+print(count_words_in_file("python_hw_1/resources/empty.txt"))   # 0
+print(count_words_in_file("python_hw_1/resources/missing.txt")) # 0
