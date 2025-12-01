@@ -1,0 +1,4 @@
+class,degree_spondylolisthesis,pelvic_incidence,lumbar_lordosis_angle,count
+Hernia,2.48,47.64,9.77,60
+Normal,2.19,51.69,12.36,100
+Spondylolisthesis,51.9,71.51,16.4,150
