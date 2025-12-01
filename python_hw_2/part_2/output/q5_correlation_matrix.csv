@@ -1,0 +1,8 @@
+,pelvic_incidence,pelvic_tilt,lumbar_lordosis_angle,sacral_slope,pelvic_radius,degree_spondylolisthesis,spondylo_zscore
+pelvic_incidence,1.0,0.629,0.717,0.815,-0.247,0.639,0.639
+pelvic_tilt,0.629,1.0,0.433,0.062,0.033,0.398,0.398
+lumbar_lordosis_angle,0.717,0.433,1.0,0.598,-0.08,0.534,0.534
+sacral_slope,0.815,0.062,0.598,1.0,-0.342,0.524,0.524
+pelvic_radius,-0.247,0.033,-0.08,-0.342,1.0,-0.026,-0.026
+degree_spondylolisthesis,0.639,0.398,0.534,0.524,-0.026,1.0,1.0
+spondylo_zscore,0.639,0.398,0.534,0.524,-0.026,1.0,1.0
